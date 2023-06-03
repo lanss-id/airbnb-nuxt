@@ -41,7 +41,7 @@
                     <div class="hidden md:block md:flex md:items-center">
                         <NuxtLink to="/" class="p-2">Kembali ke beranda</NuxtLink>
                         <div class="p-2 mr-4 ml-2">
-                            <Icon name="icon-park-outline:earth" class="w-5 h-5"></Icon>
+                            <Icon name="fluent:cart-16-regular" size="1.8rem"></Icon>
                         </div>
                         <div class="p-2 rounded-full border space-x-2">
                             <Icon name="ion:menu-outline" class="w-6 h-8"></Icon>
