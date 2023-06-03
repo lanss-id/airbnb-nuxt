@@ -1,0 +1,23 @@
+{
+    "name": "airbnb-nuxt-clone",
+    "private": true,
+    "scripts": {
+        "build": "nuxt build",
+        "dev": "nuxt dev",
+        "generate": "nuxt generate",
+        "preview": "nuxt preview",
+        "postinstall": "nuxt prepare"
+    },
+    "devDependencies": {
+        "@types/node": "^18",
+        "nuxt": "^3.5.2",
+        "prettier": "2.8.8"
+    },
+    "dependencies": {
+        "@nuxt/image": "^0.7.1",
+        "@nuxtjs/google-fonts": "^3.0.1",
+        "@nuxtjs/tailwindcss": "^6.7.0",
+        "nuxt-headlessui": "^1.1.4",
+        "nuxt-icon": "^0.4.1"
+    }
+}
